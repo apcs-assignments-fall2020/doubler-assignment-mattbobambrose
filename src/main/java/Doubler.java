@@ -1,6 +1,6 @@
 public class Doubler {
 
     public int doubleIt(int val) {
-        // Insert code here
+        return val*2;
     }
 }
